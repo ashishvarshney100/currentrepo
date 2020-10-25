@@ -7,3 +7,6 @@ read only permission.
 this file has been modified in branch1 and all changes will reflect after merge.
 ===============XXXXXXXXXXXX==================
 end of this file
+================STASHING===============
+stashing an item
+only applies to modified files
